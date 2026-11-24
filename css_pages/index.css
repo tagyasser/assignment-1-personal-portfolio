@@ -1,0 +1,50 @@
+/* start about */
+#about{
+    /* background-color: red; */
+    display: inline-block;
+}
+.paragragh{
+    /* color: yellow; */
+    display: inline-block;
+    width: 70%;
+}
+.image{
+    display: inline-block;
+}
+/* end about */
+/* start skills */
+.html{
+    display: inline-block;
+    
+}
+.html h1{
+    color: blue;
+}
+.css{
+    display: inline-block;
+}
+.css h1{
+    color: blue;
+}
+.js{
+    display: inline-block;
+}
+.js h1{
+    color: blue;
+}
+.react{
+    display: inline-block;
+}
+.react h1{
+    color: blue;
+}
+/* end skills */
+/* start exeperiance */
+.text{
+    display: inline-block;
+    width: 70%;
+}
+.text h3{
+    color:blue;
+
+}
